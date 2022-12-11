@@ -1,0 +1,25 @@
+.mybg {
+    height: 100vh;
+    background-image: url("../assets/bg/bg.webp");
+}
+
+.intro {
+    height: 300px;
+    text-shadow: 2px 2px black;
+    margin-top: 50px;
+    letter-spacing:3px
+}
+
+.trending {
+    height: auto;
+    text-align: center;
+    background-image: url("../assets/bg/bg-trending.webp");
+    background-size: cover;
+}
+.superhero {
+    width: 100%;
+    height: auto;
+    text-align: center;
+    background-image: url("../assets/bg/bg-superhero.webp");
+    background-size: cover;
+}
